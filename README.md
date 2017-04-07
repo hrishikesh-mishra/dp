@@ -35,18 +35,18 @@
 
 
 ##### Behavioral Design Patterns: Communication between objects during runtime
-    - Chain of responsibility
-    - Command
-    - Interpreter
-    - Iterator
-    - Mediator
-    - Memento
-    - Null Object
-    - Observer
-    - State
-    - Strategy
-    - Template method
-    - Visitor
+    Chain of responsibility
+    Command
+    Interpreter
+    Iterator
+    Mediator
+    Memento
+    Null Object
+    Observer
+    State
+    Strategy
+    Template method
+    Visitor
 
 
 #### Documentation 
