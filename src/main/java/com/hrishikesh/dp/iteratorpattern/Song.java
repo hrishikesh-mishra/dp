@@ -1,4 +1,4 @@
-package com.hrishikesh.dp.adapterpattern.iteratorpattern;
+package com.hrishikesh.dp.iteratorpattern;
 
 /**
  * @author hrishikesh.mishra

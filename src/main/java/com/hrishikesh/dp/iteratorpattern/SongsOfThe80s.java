@@ -1,4 +1,4 @@
-package com.hrishikesh.dp.adapterpattern.iteratorpattern;
+package com.hrishikesh.dp.iteratorpattern;
 
 import java.util.Arrays;
 import java.util.Iterator;
